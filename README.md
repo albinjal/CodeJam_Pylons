@@ -2,4 +2,4 @@
 Google Code Jam 2019 problem solution
 
 ## Problem:
-![](/Pylons_prob.png)
+![](/Pylons_prob.jpg)
